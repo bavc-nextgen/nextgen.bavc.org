@@ -1,0 +1,80 @@
+{
+    "year": "2012",
+    "class_id": "dpvideo",
+    "class": "DP Video",
+    "instructor": "Ewen",
+    "ta" : "Jasmine",
+    "students": {
+    	"allou" : {
+			"profile" : "profiles/Allou.jpg",
+			"first": "Allou",
+			"last": "",
+			"links" : {
+				}
+		},
+		"alma" : {
+			"profile" : "profiles/Alma.jpg",
+			"first": "Alma",
+			"last": "",
+			"links" : {
+				}
+	    },
+	    "buffy" : {
+			"profile" : "profiles/Buffy.jpg",
+			"first": "Buffy",
+			"last": "",
+			"links" : {
+				}
+	    },
+	    "elisa" : {
+			"profile" : "profiles/Elisa.jpg",
+			"first": "Elisa",
+			"last": "",
+			"links" : {
+				}
+	    },
+	    "hanin" : {
+			"profile" : "profiles/Hanin.jpg",
+			"first": "Hanin",
+			"last": "",
+			"links" : {
+				}
+	    },
+	    "jaque" : {
+			"profile" : "profiles/Jaque.jpg",
+			"first": "Jaque",
+			"last": "",
+			"links" : {
+				}
+	    },
+	    "karina" : {
+			"profile" : "profiles/Karina.jpg",
+			"first": "Karina",
+			"last": "",
+			"links" : {
+				}
+    	},
+	    "melissa" : {
+			"profile" : "profiles/Melissa.jpg",
+			"first": "Melissa",
+			"last": "",
+			"links" : {
+				}
+    	},
+	    "sarah" : {
+			"profile" : "profiles/Sarah.jpg",
+			"first": "Sarah",
+			"last": "",
+			"links" : {
+				}
+    	},
+	    "tammy" : {
+			"profile" : "profiles/Tammy.jpg",
+			"first": "Tammy",
+			"last": "",
+			"links" : {
+				}
+    	}
+
+    }
+}

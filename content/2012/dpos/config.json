@@ -1,0 +1,65 @@
+{
+    "year": "2012",
+    "class_id": "dpos",
+    "class": "DP Open Source",
+    "instructor": "Gabriel Dunne",
+    "ta": "Oscar Bao",
+    "students": {
+    	"kevin" : {
+			"profile" : "profiles/kevin.jpg",
+			"first": "Kevin",
+			"last": "Gil",
+			"links" : {
+				"Website": "http://exynex.github.com",
+				"Github": "http://github.com/exynex"
+				}
+		},
+		"doug" : {
+			"profile" : "profiles/doug.jpg",
+			"first": "Douglas",
+			"last": "Labat",
+			"links" : {
+				"website": "http://dlabat.github.com"
+				}
+	    },
+	    "steven" : {
+			"profile" : "profiles/steven.jpg",
+			"first": "Steven",
+			"last": "Lee",
+			"links" : {
+				"website": "http://stevenklee.github.com"
+				}
+	    },
+	    "jeanluc" : {
+			"profile" : "profiles/jean.jpg",
+			"first": "Jean Luc",
+			"last": "Reyes",
+			"links" : {
+				"website": "http://jeangonzalesreyes.github.com"
+				}
+	    },
+	    "oscar" : {
+			"profile" : "profiles/oscar.jpg",
+			"first": "Oscar",
+			"last": "Bao",
+			"links" : {
+				"website": "http://oscarbao.github.com"
+				}
+	    },
+	    "paulo" : {
+			"profile" : "profiles/paulo.jpg",
+			"first": "Paulo",
+			"last": "Ho She",
+			"links" : {
+				"website": "http://lerawr.github.com"
+				}
+	    },
+    	"tim" : {
+			"profile" : "profiles/tim.jpg",
+			"first": "Timothy",
+			"last": "Situ",
+			"links" : {
+				"website": "http://tisitu.github.com"
+				}
+	    }}
+}

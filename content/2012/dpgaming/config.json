@@ -1,0 +1,71 @@
+{
+    "year": "2012",
+    "class_id": "dpgaming",
+    "class": "DP 3D Gaming & Animation",
+    "instructor": "Sirron Norris",
+    "students": {
+        "alex" : {
+            "profile" : "profiles/alex.jpg",
+            "first": "Alex",
+            "last": "",
+            "links" : {
+                }
+        },
+        "ivy" : {
+            "profile" : "profiles/ivy.jpg",
+            "first": "Ivy",
+            "last": "",
+            "links" : {
+                }
+        },
+        "jesus" : {
+            "profile" : "profiles/jesus.jpg",
+            "first": "Jesus",
+            "last": "",
+            "links" : {
+                }
+        },
+        "koby" : {
+            "profile" : "profiles/koby.jpg",
+            "first": "Koby",
+            "last": "Kaden",
+            "links" : {
+                }
+        },
+        "maria" : {
+            "profile" : "profiles/maria.jpg",
+            "first": "Maria",
+            "last": "",
+            "links" : {
+                }
+        },
+        "mauricio" : {
+            "profile" : "profiles/mauricio.jpg",
+            "first": "Mauricio",
+            "last": "",
+            "links" : {
+                }
+        },
+        "nohea" : {
+            "profile" : "profiles/nohea.jpg",
+            "first": "Nohea",
+            "last": "",
+            "links" : {
+                }
+        },
+        "omar" : {
+            "profile" : "profiles/omar.jpg",
+            "first": "Omar",
+            "last": "",
+            "links" : {
+                }
+        },
+        "safia" : {
+            "profile" : "profiles/safia.jpg",
+            "first": "Safia",
+            "last": "",
+            "links" : {
+                }
+        }
+    }
+}
