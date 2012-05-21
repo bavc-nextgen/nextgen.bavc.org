@@ -3,12 +3,16 @@
     "class_id": "dpaudio",
     "class": "DP Audio",
     "instructor": "Ian Davis",
-    "students": {
+    "students": {   
     	"michael" : {
 			"profile" : "profiles/michael.jpg",
 			"first": "Michael",
 			"last": "Maldonado",
+			"embed" : {
+				"Soundcloud" : "<iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F10955579&show_artwork=true\"></iframe>"
+			},
 			"links" : {
+				"Resume" : "http://nextgen.bavc.org/content/2012/dpaudio/resumes/Michael Maldonado Resume final.doc"
 			}
 		},
 		"pak" : {
@@ -22,29 +26,53 @@
 			"profile" : "profiles/temba.jpg",
 			"first": "Temba",
 			"last": "Kamara",
+			"embed" : {
+				"Soundcloud" : "<iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F10955550&show_artwork=true\"></iframe>"
+			},
 			"links" : {
-				}
+				"Resume" : "http://nextgen.bavc.org/content/2012/dpaudio/resumes/Temba C Kamara Resume.doc"
+			}
 	    },
 	    "gary" : {
 			"profile" : "profiles/gary.jpg",
 			"first": "Gary",
 			"last": "Villanueva",
+			"embed" : {
+				"Soundcloud" : "<iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F16651379&show_artwork=true\"></iframe>"
+			},
 			"links" : {
+				"Resume" : "http://nextgen.bavc.org/content/2012/dpaudio/resumes/Gary Villanueva_Resume.pdf"
 				}
 	    },
+    	"alana" : {
+			"profile" : "profiles/alana.jpg",
+			"first": "Alana",
+			"last": "",
+			"embed" : {
+				"Soundcloud" : "<iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F10955658&show_artwork=true\"></iframe>"
+			},
+			"links" : {
+				"Resume" : "http://nextgen.bavc.org/content/2012/dpaudio/resumes/Lanna.docx"
+			}
+		}, 	    
 	    "brandon" : {
 			"profile" : "profiles/brandon.jpg",
 			"first": "Brandon",
 			"last": "Li",
 			"embed" : {
-					"Playlist" : "<iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F10955549&amp;auto_play=false&amp;show_artwork=true&amp;color=ff7700\"></iframe>"
+					"Soundcloud" : "<iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F10955549&amp;auto_play=false&amp;show_artwork=true&amp;color=ff7700\"></iframe>"
 				},
-			"links" : {}
+			"links" : {
+				"Resume" : "http://nextgen.bavc.org/content/2012/dpaudio/resumes/Brandon Resume BAVC.doc"
+			}
 	    },
 	    "isabela" : {
 			"profile" : "profiles/isabela.jpg",
 			"first": "Isabela ",
 			"last": "Bowden",
+			"embed" : {
+				"Soundcloud" : "<iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F10955548&show_artwork=true\"></iframe>"
+				},
 			"links" : {
 				}
 	    },
@@ -52,7 +80,11 @@
 			"profile" : "profiles/dillon.jpg",
 			"first": "Dillon",
 			"last": "Lee",
+			"embed" : {
+				"Soundcloud" : "<iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F10955564&amp;auto_play=false&amp;show_artwork=true&amp;color=ff7700\"></iframe>"
+			},
 			"links" : {
+				"Resume" : "http://nextgen.bavc.org/content/2012/dpaudio/resumes/dillon Lee.doc"
 				}
     	}
     }

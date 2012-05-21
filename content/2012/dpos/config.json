@@ -7,59 +7,77 @@
     "students": {
     	"kevin" : {
 			"profile" : "profiles/kevin.jpg",
+			"profile_hover" : "profiles/kevin_color.jpg",
 			"first": "Kevin",
 			"last": "Gil",
 			"links" : {
 				"Website": "http://exynex.github.com",
+				"Resume": "http://exynex.github.com/aboutme/kevin-gil-resume.pdf",
 				"Github": "http://github.com/exynex"
 				}
 		},
 		"doug" : {
-			"profile" : "profiles/doug.jpg",
+			"profile" : "profiles/doug_pic.jpg",
+			"profile_hover" : "profiles/doug.jpg",
 			"first": "Douglas",
 			"last": "Labat",
 			"links" : {
-				"website": "http://dlabat.github.com"
+				"Website": "http://dlabat.github.com",
+				"Resume" : "http://dlabat.github.com/files/Douglas%20Labat-resume.doc",
+				"Github": "http://github.com/dlabat"
 				}
 	    },
 	    "steven" : {
-			"profile" : "profiles/steven.jpg",
+			"profile" : "profiles/steven_pic.jpg",
+			"profile_hover" : "profiles/steven.jpg",
 			"first": "Steven",
 			"last": "Lee",
 			"links" : {
-				"website": "http://stevenklee.github.com"
+				"Website": "http://stevenklee.github.com",
+				"Resume" : "http://nextgen.bavc.org/content/2012/dpos/resumes/StevenLee.docx",
+				"Github": "http://github.com/stevenklee"				
 				}
 	    },
 	    "jeanluc" : {
-			"profile" : "profiles/jean.jpg",
+			"profile" : "profiles/jeanluc_pic.jpg",
+			"profile_hover" : "profiles/jean.jpg",
 			"first": "Jean Luc",
 			"last": "Reyes",
 			"links" : {
-				"website": "http://jeangonzalesreyes.github.com"
+				"Website": "http://jeangonzalesreyes.github.com",
+				"Resume" : "http://jeangonzalesreyes.github.com/Jean%20Luc%20Crisanto%20G.doc",
+				"Github": "http://github.com/jeangonzalesreyes"
 				}
 	    },
 	    "oscar" : {
-			"profile" : "profiles/oscar.jpg",
+			"profile" : "profiles/oscar_pic.jpg",
+			"profile_hover" : "profiles/oscar.jpg",
 			"first": "Oscar",
 			"last": "Bao",
 			"links" : {
-				"website": "http://oscarbao.github.com"
+				"Website": "http://oscarbao.github.com",
+				"Github": "http://github.com/oscarbao"				
 				}
 	    },
 	    "paulo" : {
-			"profile" : "profiles/paulo.jpg",
+			"profile" : "profiles/paulo_pic.jpg",
+			"profile_hover" : "profiles/paulo.jpg",
 			"first": "Paulo",
 			"last": "Ho She",
 			"links" : {
-				"website": "http://lerawr.github.com"
+				"Website": "http://lerawr.github.com",
+				"Github": "http://github.com/lerawr"				
 				}
 	    },
     	"tim" : {
-			"profile" : "profiles/tim.jpg",
+			"profile" : "profiles/tim_pic.jpg",
+			"profile_hover" : "profiles/tim.jpg",
 			"first": "Timothy",
 			"last": "Situ",
 			"links" : {
-				"website": "http://tisitu.github.com"
+				"Website": "http://tisitu.github.com",
+				"Resume": "http://nextgen.bavc.org/content/2012/dpos/resumes/TimothySitu.doc",
+				"Github": "http://github.com/tisitu"
 				}
 	    }}
 }

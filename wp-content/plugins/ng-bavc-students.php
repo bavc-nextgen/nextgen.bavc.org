@@ -25,9 +25,13 @@ define('NG_PARAMS', "config.json");
  */
 function ng_student_gallery( $class_dir ) {
 
+	// get config file from class root
     $config = ng_get_config($class_dir);
+    
+    // create $web_loc variable from constants and class_dir
     $web_loc = NG_WEBROOT . "content/" . $class_dir;
 
+	// create student list
     ?>
      <div class="student-list">
      <ul>
@@ -35,8 +39,7 @@ function ng_student_gallery( $class_dir ) {
         foreach( (array) $config->students as $key => $student) :
         $student_page_url = '/student/?id=' . $key . '&class=' . $class_dir; ?>
      <li>
-     <div class="thumb">
-        <a href="<?=$student_page_url?>"><img src="<?=$web_loc . '/' . $student->profile;?>" /></a>
+     <div class="thumb"><a href="<?=$student_page_url?>"><img class="profile" src="<?=$web_loc . '/' . $student->profile;?>" /><?php if (isset($student->profile_hover)) : ?><img class="hover" src="<?=$web_loc . '/' . $student->profile_hover;?>" /><?else:?><img class="hover" src="<?=$web_loc . '/' . $student->profile;?>" /><?endif;?></a>
      </div><span class="name"><a href="<?=$student_page_url?>"><?=$student->first;?></a>
      </span>
      </li>
@@ -45,7 +48,8 @@ function ng_student_gallery( $class_dir ) {
      </div>
      <?
 
-     ng_css();
+	// print out CSS
+    ng_css();
 }
 
 function ng_student_profile( $class_dir, $student_id ) {
@@ -53,21 +57,22 @@ function ng_student_profile( $class_dir, $student_id ) {
     $student = ng_get_student_data( $class_dir, $student_id);
 
     ?>
-
-    <img class="student_profile" src="<?=NG_WEBROOT . NG_CONTENT_DIR . $class_dir .  $student->profile ?>" />
-
-    <?
-    //echo sizeof($student->links);
-    ?>
+	
+	<!-- profile image -->
+	<div class="student_profile_image">
+    <img src="<?=NG_WEBROOT . NG_CONTENT_DIR . $class_dir .  $student->profile ?>" />
+    </div>
 
     <?php if (isset($student->links) && sizeof((array)$student->links) > 0) : ?>
+    <div class="student_profile_links">
     <h3>Links</h3>
-    <ul class="student_profile_links">
+    <ul>
     <?php foreach($student->links as $k => $link) : ?>
     <li><a href="<?=$link;?>"><?=$k;?></a></li>
     <?php endforeach; ?>
     </ul>
     <?php endif; ?>
+    </div>
 
     <?php if (isset($student->embed) && sizeof((array)$student->embed) > 0) : ?>
     <?php foreach($student->embed as $k=>$embed) : ?>
@@ -133,33 +138,44 @@ function ng_css() {
     margin:0;
     padding:0;
 }
-.student-list ul {
-    margin:0;
-    padding:0;
-}
-.student-list li {
-    margin:0 30px 30px 0;
-    height:190px;
-    display:inline-block;
-}
-.student-list .thumb,
-.student-list .thumb a {
-    width:150px;
-    height:150px;
-    display:block;
-    overflow:hidden;
-    background:#aaa;
-}
-.student-list img {
-    width:150px;
-    border:0;
-}
-.student-list .name {
-    font-size:18px;
-}
-.student_profile_links,
+	.student-list ul {
+		margin:0;
+		padding:0;
+	}
+	.student-list li {
+		margin:0 30px 30px 0;
+		height:190px;
+		display:inline-block;
+	}
+	.student-list .thumb,
+	.student-list .thumb a {
+		width:150px;
+		height:150px;
+		display:block;
+		overflow:hidden;
+		background:#aaa;
+	}
+	.student-list .thumb:hover img.profile {
+		display:none;
+	}
+	.student-list .thumb:hover img.hover {
+		display:block;
+	}
+	.student-list img {
+		width:150px;
+		border:0;
+	}
+	.student-list .name {
+		font-size:18px;
+	}
+	
+.student_profile_links { }
+.student_profile_links ul, 
 .student_profile_links li {
     list-style-type:square;
+}
+.student_profile_image {
+	max-width:200px;
 }
 </style>
 END;

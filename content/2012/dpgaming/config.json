@@ -9,6 +9,8 @@
             "first": "Alex",
             "last": "",
             "links" : {
+                "Game (OSX)" : "http://nextgen.bavc.org/content/2012/dpgaming/mac_games/Alexe_Game.zip",
+                "Resume" : "/content/2012/dpgaming/resumes/Alex Ling_resume.docx"
                 }
         },
         "ivy" : {
@@ -16,6 +18,9 @@
             "first": "Ivy",
             "last": "",
             "links" : {
+                "Game (Web)" : "http://nextgen.bavc.org/content/2012/dpgaming/web_games/IVY_Web/IVY_Web.html",
+                "Game (OSX)" : "http://nextgen.bavc.org/content/2012/dpgaming/mac_games/Ivy_game.zip",
+                "Resume" : "/content/2012/dpgaming/resumes/Ivy Li_Resume.docx"
                 }
         },
         "jesus" : {
@@ -23,6 +28,9 @@
             "first": "Jesus",
             "last": "",
             "links" : {
+                "Game (Web)" : "http://nextgen.bavc.org/content/2012/dpgaming/web_games/Jesus_Game_web/Jesus_Game_web.html",
+                "Game (OSX)" : "http://nextgen.bavc.org/content/2012/dpgaming/mac_games/Jesus_Game.zip",
+                "Resume" : "/content/2012/dpgaming/resumes/JesusCardenasResume.doc"
                 }
         },
         "koby" : {
@@ -30,6 +38,8 @@
             "first": "Koby",
             "last": "Kaden",
             "links" : {
+                "Game (Web)" : "http://nextgen.bavc.org/content/2012/dpgaming/web_games/Omar-Koby_web/Web%20Level.html",
+                "Game (OSX)" : "http://nextgen.bavc.org/content/2012/dpgaming/mac_games/Omar-Koby.zip"
                 }
         },
         "maria" : {
@@ -37,6 +47,9 @@
             "first": "Maria",
             "last": "",
             "links" : {
+                "Game (Web)" : "http://nextgen.bavc.org/content/2012/dpgaming/web_games/Maria_web/Maria_web.html",
+                "Game (OSX)" : "http://nextgen.bavc.org/content/2012/dpgaming/mac_games/Maria_Game.zip",
+                "Resume" : "/content/2012/dpgaming/resumes/Maria Belayadi Resume.docx"
                 }
         },
         "mauricio" : {
@@ -44,6 +57,9 @@
             "first": "Mauricio",
             "last": "",
             "links" : {
+                "Game (Web)" : "http://nextgen.bavc.org/content/2012/dpgaming/web_games/mauricio_web/mauricio_web.html",
+                "Game (OSX)" : "http://nextgen.bavc.org/content/2012/dpgaming/mac_games/Mauricio_Game.zip",
+                "Resume" : "/content/2012/dpgaming/resumes/MauricioRomero.docx"
                 }
         },
         "nohea" : {
@@ -51,6 +67,8 @@
             "first": "Nohea",
             "last": "",
             "links" : {
+                "Game (Web)" : "http://nextgen.bavc.org/content/2012/dpgaming/web_games/Nohea_web/Nohea_web.html",
+                "Game (OSX)" : "http://nextgen.bavc.org/content/2012/dpgaming/mac_games/nohea_Game.zip"
                 }
         },
         "omar" : {
@@ -58,6 +76,9 @@
             "first": "Omar",
             "last": "",
             "links" : {
+                "Game (Web)" : "http://nextgen.bavc.org/content/2012/dpgaming/web_games/Omar-Koby_web/Web%20Level.html",
+                "Game (OSX)" : "http://nextgen.bavc.org/content/2012/dpgaming/mac_games/Omar-Koby.zip",
+                "Resume" : "/content/2012/dpgaming/resumes/Omar Zouai Resume.doc"
                 }
         },
         "safia" : {
@@ -65,6 +86,9 @@
             "first": "Safia",
             "last": "",
             "links" : {
+                "Game (Web)" : "http://nextgen.bavc.org/content/2012/dpgaming/web_games/safia_web/safia_web.html",
+                "Game (OSX)" : "http://nextgen.bavc.org/content/2012/dpgaming/mac_games/safia_game.zip",
+                "Resume" : "/content/2012/dpgaming/resumes/Safia Belayadi_Resume.docx"
                 }
         }
     }

@@ -9,13 +9,20 @@
 			"profile" : "profiles/Allou.jpg",
 			"first": "Allou",
 			"last": "",
+			"embed" : { 
+				"Changes Perceptions" : "<iframe width=\"853\" height=\"480\" src=\"http://www.youtube.com/embed/uwfCyYF2b1o\" frameborder=\"0\" allowfullscreen></iframe>"
+				},			
 			"links" : {
+				"Resume" : "http://nextgen.bavc.org/content/2012/dpvideo/resumes/Allou_Marie_Umadhay_resume.doc"
 				}
 		},
 		"alma" : {
 			"profile" : "profiles/Alma.jpg",
 			"first": "Alma",
 			"last": "",
+			"embed" : {
+				"Nonstop" : "<iframe width=\"853\" height=\"480\" src=\"http://www.youtube.com/embed/PnqSMS4Rje8\" frameborder=\"0\" allowfullscreen></iframe>"
+			},
 			"links" : {
 				}
 	    },
@@ -23,13 +30,20 @@
 			"profile" : "profiles/Buffy.jpg",
 			"first": "Buffy",
 			"last": "",
+			"embed" : {
+				"Welcome To Our Hoods" : "<iframe width=\"853\" height=\"480\" src=\"http://www.youtube.com/embed/wMMypuvPrQc\" frameborder=\"0\" allowfullscreen></iframe>"
+				},
 			"links" : {
+				"Resume" : "http://nextgen.bavc.org/content/2012/dpvideo/resumes/Buffy_Almendares.doc"
 				}
 	    },
 	    "elisa" : {
 			"profile" : "profiles/Elisa.jpg",
 			"first": "Elisa",
 			"last": "",
+			"embed" : { 
+				"Changes Perceptions" : "<iframe width=\"853\" height=\"480\" src=\"http://www.youtube.com/embed/uwfCyYF2b1o\" frameborder=\"0\" allowfullscreen></iframe>"
+				},
 			"links" : {
 				}
 	    },
@@ -37,6 +51,9 @@
 			"profile" : "profiles/Hanin.jpg",
 			"first": "Hanin",
 			"last": "",
+			"embed" : {
+				"Representations of Women in the Media" : "<iframe width=\"853\" height=\"480\" src=\"http://www.youtube.com/embed/AkVd2P4J0qw\" frameborder=\"0\" allowfullscreen></iframe>"
+				},
 			"links" : {
 				}
 	    },
@@ -44,27 +61,42 @@
 			"profile" : "profiles/Jaque.jpg",
 			"first": "Jaque",
 			"last": "",
+			"embed" : {
+				"Representations of Women in the Media" : "<iframe width=\"853\" height=\"480\" src=\"http://www.youtube.com/embed/AkVd2P4J0qw\" frameborder=\"0\" allowfullscreen></iframe>"
+				},			
 			"links" : {
+				"Resume" : "http://nextgen.bavc.org/content/2012/dpvideo/resumes/Jacqueline_Espinoza1.docx"
 				}
 	    },
 	    "karina" : {
 			"profile" : "profiles/Karina.jpg",
 			"first": "Karina",
 			"last": "",
+			"embed" : {
+				"Representations of Women in the Media" : "<iframe width=\"853\" height=\"480\" src=\"http://www.youtube.com/embed/AkVd2P4J0qw\" frameborder=\"0\" allowfullscreen></iframe>"
+				},			
 			"links" : {
+				"Resume" : "http://nextgen.bavc.org/content/2012/dpvideo/resumes/Karina.docx"
 				}
     	},
 	    "melissa" : {
 			"profile" : "profiles/Melissa.jpg",
 			"first": "Melissa",
 			"last": "",
+			"embed" : {
+				"Welcome To Our Hoods" : "<iframe width=\"853\" height=\"480\" src=\"http://www.youtube.com/embed/wMMypuvPrQc\" frameborder=\"0\" allowfullscreen></iframe>"
+				},			
 			"links" : {
+				"Resume" : "http://nextgen.bavc.org/content/2012/dpvideo/resumes/MELISSA_LI.docx"
 				}
     	},
 	    "sarah" : {
 			"profile" : "profiles/Sarah.jpg",
 			"first": "Sarah",
 			"last": "",
+			"embed" : {
+				"Representations of Women in the Media" : "<iframe width=\"853\" height=\"480\" src=\"http://www.youtube.com/embed/AkVd2P4J0qw\" frameborder=\"0\" allowfullscreen></iframe>"
+				},			
 			"links" : {
 				}
     	},
@@ -72,6 +104,9 @@
 			"profile" : "profiles/Tammy.jpg",
 			"first": "Tammy",
 			"last": "",
+			"embed" : {
+				"Welcome To Our Hoods" : "<iframe width=\"853\" height=\"480\" src=\"http://www.youtube.com/embed/wMMypuvPrQc\" frameborder=\"0\" allowfullscreen></iframe>"
+				},			
 			"links" : {
 				}
     	}
