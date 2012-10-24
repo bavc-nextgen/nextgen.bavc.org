@@ -3,7 +3,7 @@
     "class_id": "dpaudio",
     "class": "DP Audio",
     "instructor": "Ian Davis",
-    "students": {   
+    "students": {
     	"michael" : {
 			"profile" : "profiles/michael.jpg",
 			"first": "Michael",
@@ -54,7 +54,7 @@
 			"links" : {
 				"Resume" : "http://nextgen.bavc.org/content/2012/dpaudio/resumes/Lanna.docx"
 			}
-		}, 	    
+		},
 	    "brandon" : {
 			"profile" : "profiles/brandon.jpg",
 			"first": "Brandon",

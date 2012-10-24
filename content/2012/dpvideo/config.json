@@ -9,9 +9,9 @@
 			"profile" : "profiles/Allou.jpg",
 			"first": "Allou",
 			"last": "",
-			"embed" : { 
+			"embed" : {
 				"Changes Perceptions" : "<iframe width=\"853\" height=\"480\" src=\"http://www.youtube.com/embed/uwfCyYF2b1o\" frameborder=\"0\" allowfullscreen></iframe>"
-				},			
+				},
 			"links" : {
 				"Resume" : "http://nextgen.bavc.org/content/2012/dpvideo/resumes/Allou_Marie_Umadhay_resume.doc"
 				}
@@ -41,7 +41,7 @@
 			"profile" : "profiles/Elisa.jpg",
 			"first": "Elisa",
 			"last": "",
-			"embed" : { 
+			"embed" : {
 				"Changes Perceptions" : "<iframe width=\"853\" height=\"480\" src=\"http://www.youtube.com/embed/uwfCyYF2b1o\" frameborder=\"0\" allowfullscreen></iframe>"
 				},
 			"links" : {
@@ -63,7 +63,7 @@
 			"last": "",
 			"embed" : {
 				"Representations of Women in the Media" : "<iframe width=\"853\" height=\"480\" src=\"http://www.youtube.com/embed/AkVd2P4J0qw\" frameborder=\"0\" allowfullscreen></iframe>"
-				},			
+				},
 			"links" : {
 				"Resume" : "http://nextgen.bavc.org/content/2012/dpvideo/resumes/Jacqueline_Espinoza1.docx"
 				}
@@ -74,7 +74,7 @@
 			"last": "",
 			"embed" : {
 				"Representations of Women in the Media" : "<iframe width=\"853\" height=\"480\" src=\"http://www.youtube.com/embed/AkVd2P4J0qw\" frameborder=\"0\" allowfullscreen></iframe>"
-				},			
+				},
 			"links" : {
 				"Resume" : "http://nextgen.bavc.org/content/2012/dpvideo/resumes/Karina.docx"
 				}
@@ -85,7 +85,7 @@
 			"last": "",
 			"embed" : {
 				"Welcome To Our Hoods" : "<iframe width=\"853\" height=\"480\" src=\"http://www.youtube.com/embed/wMMypuvPrQc\" frameborder=\"0\" allowfullscreen></iframe>"
-				},			
+				},
 			"links" : {
 				"Resume" : "http://nextgen.bavc.org/content/2012/dpvideo/resumes/MELISSA_LI.docx"
 				}
@@ -96,7 +96,7 @@
 			"last": "",
 			"embed" : {
 				"Representations of Women in the Media" : "<iframe width=\"853\" height=\"480\" src=\"http://www.youtube.com/embed/AkVd2P4J0qw\" frameborder=\"0\" allowfullscreen></iframe>"
-				},			
+				},
 			"links" : {
 				}
     	},
@@ -106,7 +106,7 @@
 			"last": "",
 			"embed" : {
 				"Welcome To Our Hoods" : "<iframe width=\"853\" height=\"480\" src=\"http://www.youtube.com/embed/wMMypuvPrQc\" frameborder=\"0\" allowfullscreen></iframe>"
-				},			
+				},
 			"links" : {
 				}
     	}
