@@ -1,0 +1,134 @@
+/*
+Theme Name: Responsive Child
+Theme URI:  http://example.com/
+Description: Child Theme for the Responsive Theme 
+Author: Authors Name
+Author URI: http://example.com/about-author/
+Template: responsive
+Version: 1.0.0
+*/
+
+/* =Import Responsive Theme Styles
+-------------------------------------------------------------- */
+@import url('../responsive/style.css');
+
+/* =Start from here :)
+-------------------------------------------------------------- */
+
+/* normal lists */
+li {
+    list-style-type:none;
+}
+
+
+
+/* =Media Queries
+    If you're working on a Child Theme, make sure that all
+	media queries are included in your style.css
+-------------------------------------------------------------- */
+@media screen and (max-width: 980px) {
+
+    body {
+    }
+
+    .grid, .grid-right {
+	    float:none;
+    }
+	
+	#featured-image .fluid-width-video-wrapper {
+	    margin:20px 0 0 0;
+    }
+	
+	.widget-wrapper {
+	    padding-left:0;
+    }
+
+    .widget-wrapper-left {
+	    padding-right:0;
+    }
+
+    #footer {
+        background:#ff0 !important;
+    }
+}
+
+@media screen and (max-width: 650px) {
+
+    body {
+    }
+
+    #header #logo {
+	    float:none;
+	    text-align:center;
+    }
+
+    .grid, .grid-right {
+	    float:none;
+    }
+
+	#featured-image .fluid-width-video-wrapper {
+	    margin:20px 0 0 0;
+    }
+	
+    .menu li, .top-menu, .footer-menu li, .sub-header-menu li {
+	    float:none;
+	    text-align:center;
+    }
+
+	.widget-wrapper {
+	    padding-left:0;
+    }
+
+    .widget-wrapper-left {
+	    padding-right:0;
+    }
+	
+    #footer {
+	    text-align:center;
+    }
+
+    #footer .social-icons {
+	    text-align:center;
+    }
+}
+
+@media screen and (max-width: 480px) {
+
+    body {
+    }
+
+    #header #logo {
+	    float:none;
+	    text-align:center;
+    }
+
+    .grid, .grid-right {
+	    float:none;
+    }
+	
+	#featured-image .fluid-width-video-wrapper {
+	    margin:20px 0 0 0;
+    }
+
+    .menu li, .top-menu, .footer-menu li, .sub-header-menu li {
+	    float:none;
+	    text-align:center;
+    }
+
+	.widget-wrapper {
+	    padding-left:0;
+    }
+
+    .widget-wrapper-left {
+	    padding-right:0;
+    }
+	
+    #footer {
+	    text-align:center;
+    }
+
+    #footer .social-icons {
+	    text-align:center;
+    }
+}
+/*"The last 29 days of the month are the hardest."- Nikola Tesla*/
