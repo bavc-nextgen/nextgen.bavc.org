@@ -783,11 +783,12 @@ article.sticky .featured-post {
 	font-size: 12px;
 	font-size: 0.857142857rem;
 	line-height: 2;
+	color: #dd0088;
 }
 .entry-content pre,
 .comment-content pre {
 	border: 1px solid #ededed;
-	color: #666;
+	color: #dd0088;
 	font-family: Consolas, Monaco, Lucida Console, monospace;
 	font-size: 12px;
 	font-size: 0.857142857rem;

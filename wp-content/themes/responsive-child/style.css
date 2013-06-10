@@ -20,6 +20,10 @@ li {
     list-style-type:none;
 }
 
+code, pre {
+color:#dd0044;
+padding:3px 6px;
+}
 
 
 /* =Media Queries
